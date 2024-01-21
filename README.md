@@ -1,5 +1,5 @@
 
-<h1 align="center">Hiee!! Safwan Hawale here</h1>
+<h1 align="center">Hello!! Safwan Hawale here</h1>
 <h3 align="center">I'm a Artificial IntelliPassionate and detail-oriented Computer Science Engineering graduate with a specialization in Artificial Intelligence and Machine Learning. My journey involves a blend of theoretical knowledge gained through coursework and hands-on experience from various projects. I am eager to contribute innovative solutions, learn from seasoned professionals, and further develop my skills in the exciting realm of AI/ML technologies.</h3>
 
 - 🔭 I’m currently working on **Hydrophonic farming using CNN**
