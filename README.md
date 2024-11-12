@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Artificial_intelligence_icon.svg/1200px-Artificial_intelligence_icon.svg.png" width="80" alt="AI Logo" />
+  <img src="https://raw.githubusercontent.com/Safi30/Safi30/main/logo-ezgif.com-webp-to-jpg-converter.jpg" width="80" alt="AI Logo" />
 </p>
+
 
 <h1 align="center">Greetings! I'm Safwan Hawale</h1>
 
